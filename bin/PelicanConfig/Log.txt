@@ -1,0 +1,6 @@
+[30/11/2024 10:25:02] [INFO] - Launched browser with URL: https://pandadevelopment.net/getkey?service=getlumin&hwid=MDA1MDU2QzAwMDAxfDE3OEJGQkZGMDBBNTBGMDA=
+[30/11/2024 10:25:14] [INFO] - Checking for HTTP debugger processes...
+[30/11/2024 10:25:14] [INFO] - No proxy detected.
+[30/11/2024 10:25:14] [INFO] - No HTTP debugger or proxy detected.
+[30/11/2024 10:25:14] [INFO] - Initiating regular authentication with URL: https://pandadevelopment.net/v2_validation?hwid=MDA1MDU2QzAwMDAxfDE3OEJGQkZGMDBBNTBGMDA=&service=getlumin&key=LUMIN4a63bffe51a17a4d95be3bd933702ca24d2490d2e37471b57210128ac5d54a34
+[30/11/2024 10:25:14] [SUCCESS] - Regular authentication succeeded for service: getlumin
